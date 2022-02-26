@@ -16,6 +16,7 @@
 
 # misc
 /backend/.env
+/frontend/.env
 /backend/ormconfig.json
 .DS_Store
 .env.local
